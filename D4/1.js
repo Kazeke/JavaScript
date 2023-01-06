@@ -2,7 +2,7 @@ let country = {
   name: "Kazakhstan",
   capital: "Astana",
   population: 20000000,
-  continent: "Evrasia",
+  continent: "Evrasia"
 };
 
 console.log("Strana - " + country["name"]);
